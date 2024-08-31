@@ -1,5 +1,0 @@
-Legion ,Lenovo,$1000,198,Ryzen 7,RTX 3060                                    
-Dellg15,Dell  ,$1970,135,i9 12th,RTX 3070
-Macbook,Apple ,$1560,246,M1 Chip,M1 Graphics 
-Swift 7,Acer  ,$900 ,125,i5     ,GTX 3070                                                             
-Nitro 5,Acer  ,$500 ,161,Ryzen 5,GTX 1650
